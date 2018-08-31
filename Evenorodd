@@ -1,4 +1,4 @@
-a= raw_input("Please Enter a Number : ")
+a= 10
 if(a %2 ==0):
  print("This Number is Even")
 else:
