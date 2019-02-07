@@ -1,5 +1,5 @@
-n=int(input("Enter number: "))
-if(n>0):
-    print("Number is positive")
+a=int(input("Enter number: "))
+if(a>0):
+    print("Number is +ve")
 else:
-    print("Number is negative")
+    print("Number is -ve")
