@@ -1,6 +1,6 @@
-a = raw_input("Enter 1 NUMBER: ")
-b = raw_input("Enter 2 NUMBER: ")
-c =raw_input("Enter 3 NUMBER: ")
+a = (int(input("Enter 1 NUMBER:"))
+b = (int(input("Enter 2 NUMBER:"))
+c =(int(input("Enter 3 NUMBER:"))
 if(a>b) and (a>c):
   largest=a
 elif(b>a) and (b>c):
