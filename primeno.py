@@ -8,4 +8,4 @@ for num in range(n+1,q):
             break
     else:
         list.append(num)
-print(" ".joint(map(str,list)))        
+print(" ".join(map(str,list)))        
