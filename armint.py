@@ -1,7 +1,7 @@
 a=input().split()
-b=int(a[0])
+e=int(a[0])
 c=int(a[1])
-for num in range(b,c):
+for num in range(e,c):
   temp=num
   sum=0
   while temp>0:
